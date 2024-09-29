@@ -9,3 +9,5 @@ Flutter demo project:
 
 Just run **flutter pub get**
 Then follow the flutter docs to config your device and run the application
+
+## All the project is in the lib folder
