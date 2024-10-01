@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mealsapp/providers/favorites_provider.dart';
 import 'package:mealsapp/providers/filters_provider.dart';
-import 'package:mealsapp/providers/meals_provider.dart';
 import 'package:mealsapp/screens/categories.dart';
 import 'package:mealsapp/screens/filters.dart';
 import 'package:mealsapp/screens/meals.dart';
